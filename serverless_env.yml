@@ -1,0 +1,15 @@
+project: any-project-name
+#any value you need 
+# access with stage
+dev:
+  arnCertificate: 
+  domain: 
+  devDependencies: false
+nonprod:
+  arnCertificate: 
+  domain: 
+  devDependencies: true
+prod:
+  arnCertificate: 
+  domain: 
+  devDependencies: true
